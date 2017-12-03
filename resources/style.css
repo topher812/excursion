@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+html {
+  font-family: verdana;
+}
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+h3 {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+  font-weight: lighter;
+}
